@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Samples/Mixed Reality Toolkit Examples/2.7.3/Demos - HandTracking/Scenes/HandInteractionExamples.unity
+    guid: 3dd4a396b5225f8469b9a1eb608bfa57
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 5593403cce800d84cb8be389e6ed00f4, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4fab82c640acf3c418b76fb8287c9c49, type: 2}
